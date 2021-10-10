@@ -1,4 +1,4 @@
-# Image gallery with React/Tailwind
+# Simple image gallery with React/Tailwind
 ## Data API: https://pixabay.com/api/docs/
 
 - Working with useState and useEffect
